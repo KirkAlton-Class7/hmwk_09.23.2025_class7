@@ -5,9 +5,10 @@
 I seek mental clarity in all things cloud, code, and architecture.
 $400K, Ling Ling, and the Chiang Mai mountainside await.
 
-![Indonesian Woman](images/indonesian_woman.jpeg)
+<img src="images/indonesian_woman.jpeg" alt="Indonesian Woman" width="50%">
 
-![Chiang Mai Mountains](images/chiang_mai_mountains.jpg)
+<img src="images/chiang_mai_mountains.jpg" alt="Chiang Mai Mountains " width="50%">
+
 
 #### My penance this day
 To wrestle with the gates of GitHub until my code finds a home in the cloud.
@@ -38,7 +39,7 @@ Diligence in failure builds builds consistency.
 
 #### Chiang Mai awaits; I will claim the mountain.
 
-![Chiang Mai Mountains 2](images/chiang_mai_mountains_2.jpg)
+<img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="50%">
 
 #### From the dust we rise, and to the dust we shall return.
 In Chewbacca's name we pray.
