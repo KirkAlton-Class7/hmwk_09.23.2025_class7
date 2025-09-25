@@ -53,5 +53,13 @@ git branch
 git remote add
 
 
-# Link local repo to GitHub Rep
+#### Link local repo to GitHub Rep
 git remote add origin git@github.com:USERNAME/REPO.git
+
+#### Ignore .DS_Store files globally on mac
+#### Create global ignore file
+git config --global core.excludesfile ~/.gitignore_global
+
+#### Pipe ignore rule to file
+echo .DS_Store >> ~/.gitignore_global
+
