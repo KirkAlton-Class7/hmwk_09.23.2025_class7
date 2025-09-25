@@ -21,9 +21,9 @@ Yet by faith and persistence,<br>
 <img src="images/public_ssh_keys.png" alt="Public SSH Keys" width="90%">
 <br> <br>
 
-4   <span style="color:red;"><b>Thus spoke the shell:</b></span> <br>
+4   <b>Thus spoke the shell:</b></span> <br>
 Verily, thy computer is like a <i>lady</i>; <br>
-she must be guided gently unto a <i>righteous directory<i/>.
+she must be guided gently unto a <i>righteous directory</i>.
 ```sh
 cd class7_repos/homework
 ```
@@ -39,7 +39,9 @@ echo "# PIPE HER" > just_like_that.md
 echo "Yes, right there." >> just_like_that.md
 ```
 
-And lo, ye must first `git in it`; only then may ye `git push`.
+And lo, ye must first `git init`, then `git add` the fruits of thy labor.
+Lest ye forget to `git commit`, thy efforts be in vain.
+Only then may ye `git push` unto her.
 <br>
 
 5 <b>Today’s work hath no end;</b> <br>
@@ -58,7 +60,7 @@ and the mountainside of Chiang Mai await.</i></b> <br>
 
 7 <b>Go forth, thou shalt <i>conquer</i> the mountain.</b> <br>
 
-<img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="50%">
+<img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="60%">
 <br>
 
 8   <b>And from this day you shall pray:</b> <br>
@@ -68,7 +70,7 @@ for knowledge giveth, and ignorance taketh away. <br>
 Keep me not in the Red Ocean of strife, <br>
 but guide me to the Blue Ocean of abundance. <br>
 From the dust we rise, and to the dust we shall return. <br>
-In <span style="color:red;">Chewbacca's</span> name we pray, <br>
+In <b>Chewbacca's</b> name we pray, <br>
 Amen.</i>
 
 
