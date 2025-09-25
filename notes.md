@@ -1,5 +1,5 @@
 ## CLASS NOTES AND README IN PROGRESS
-## HTTPS gave me issues on Mac so I nuked my repo and got help from ChatGPT and GitHub docs to use SSH keys instead.
+## HTTPS gave me issues with tokens on Mac so I nuked my repo and got help from ChatGPT and GitHub docs to use SSH keys instead.
 ## Using GitHub official docs to help note the process for future reference.
 
 #### Check for existing SSH keys
