@@ -39,9 +39,9 @@ echo "# PIPE HER" > just_like_that.md
 echo "Yes, right there." >> just_like_that.md
 ```
 
-And lo, ye must first `git init`, then `git add` the fruits of thy labor.
-Lest ye forget to `git commit`, thy efforts be in vain.
-Only then may ye `git push` unto her.
+And lo, ye must first `git init`, then `git add` the fruits of thy labor. <br>
+Lest ye forget to `git commit`, thy efforts be in vain. <br>
+Only then may ye `git push` unto her. <br>
 <br>
 
 5 <b>Today’s work hath no end;</b> <br>
