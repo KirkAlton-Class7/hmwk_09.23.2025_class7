@@ -1,48 +1,75 @@
 
-# The Dusty Cloud Prayer
-## On the 23rd day of the ninth month, in the first year of our Class 7.
+# Chapter Three of the 7th Book of Dust
+## On the Consummation of Github and the Dusty Cloud Prayer
+1   Bless my thoughts with <i>clarity</i>, <br>
+in cloud above, code below, <br>
+and architecture eternal. <br>
+<br>
 
-I seek mental clarity in all things cloud, code, and architecture.
-$400K, Ling Ling, and the Chiang Mai mountainside await.
+2   <b>My <i>penance this day</i></b> <br>
+To wrestle with the gates of GitHub <br>
+'Til my code findeth rest in the cloud <br>
+<br>
 
-<img src="images/indonesian_woman.jpeg" alt="Indonesian Woman" width="50%">
+3   <b>Yea though I walk through the valley of broken projects</b> <br>
+Thy Mac is tormented by HTTPS,<br>
+demanding tokens in vain.<br>
+Yet by faith and persistence,<br>
+<i>salvation</i> cometh through SSH.<br>
 
-<img src="images/chiang_mai_home.jpeg" alt="Chiang Mai Home " width="50%">
+<br>
+<img src="images/public_ssh_keys.png" alt="Public SSH Keys" width="90%">
+<br> <br>
 
-
-### My penance this day
-To wrestle with the gates of GitHub until my code finds a home in the cloud.
-
-### Ye though I walk through the valley of broken builds
-Thy soul was tormented by GitHub HTTPS demanding tokens on Mac. Thine HTTPS login was in vain, but through faith, fervor, and persistence I found salvation in SSH authentication.
-
-<img src="images/public_ssh_keys.png" alt="Public SSH Keys" width="50%">
-
-### Thus spoke the shell:
-Your computer is like a lady: you must guide her to the right directory 
+4   <span style="color:red;"><b>Thus spoke the shell:</b></span> <br>
+Verily, thy computer is like a <i>lady</i>; <br>
+she must be guided gently unto a <i>righteous directory<i/>.
 ```sh
 cd class7_repos/homework
 ```
 
-Then touch her
-```shell
+Then touch her, and a file shall spring forth.
+```sh
 touch just_like_that.md
 ```
 
-Before you pipe her 
+Having touched her, thou shalt lay the pipe 
 ```sh
 echo "# PIPE HER" > just_like_that.md
 echo "Yes, right there." >> just_like_that.md
 ```
 
-### Today’s work never ends.
-Diligence in failure builds builds consistency. 
+And lo, ye must first `git in it`; only then may ye `git push`.
+<br>
 
-### Chiang Mai awaits; I will conquer the mountain.
+5 <b>Today’s work hath no end;</b> <br>
+diligence in failure begets consistency, and consistency begets the <i>fruit of deployment</i>.
+<br>
+
+6   <b><i>Lo, $400K, faithful Ling Ling, <br>
+and the mountainside of Chiang Mai await.</i></b> <br>
+
+<img src="images/indonesian_woman.jpeg" alt="Indonesian Woman" width="60%">
+<br>
+
+<img src="images/chiang_mai_home.jpeg" alt="Chiang Mai Home " width="60%">
+<br>
+<br>
+
+7 <b>Go forth, thou shalt <i>conquer</i> the mountain.</b> <br>
 
 <img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="50%">
+<br>
 
-### From the dust we rise, and to the dust we shall return.
-In Chewbacca's name we pray.
+8   <b>And from this day you shall pray:</b> <br>
+<i>Deliver me from the <b>burning pit of Keisha</b>, where hope is turned to ash. <br>
+Grant me the discipline to learn without ceasing, <br>
+for knowledge giveth, and ignorance taketh away. <br>
+Keep me not in the Red Ocean of strife, <br>
+but guide me to the Blue Ocean of abundance. <br>
+From the dust we rise, and to the dust we shall return. <br>
+In <span style="color:red;">Chewbacca's</span> name we pray, <br>
+Amen.</i>
 
-Amen
+
+
