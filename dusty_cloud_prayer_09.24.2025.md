@@ -7,7 +7,7 @@ $400K, Ling Ling, and the Chiang Mai mountainside await.
 
 <img src="images/indonesian_woman.jpeg" alt="Indonesian Woman" width="50%">
 
-<img src="images/chiang_mai_mountains.jpg" alt="Chiang Mai Mountains " width="50%">
+<img src="images/chiang_mai_home.jpeg" alt="Chiang Mai Home " width="50%">
 
 
 #### My penance this day
@@ -16,7 +16,8 @@ To wrestle with the gates of GitHub until my code finds a home in the cloud.
 #### Ye though I walk through the valley of broken builds
 Thy soul was tormented by GitHub HTTPS demanding tokens on Mac. Thine HTTPS login was in vain, but through faith, fervor, and persistence I found salvation in SSH authentication.
 
-![Public SSH Keys](images/public_ssh_keys.png)
+<img src="images/public_ssh_keys.png" alt="Public SSH Keys" width="50%">
+
 #### Thus spoke the shell:
 Your computer is like a lady: you must guide her to the right directory 
 ```sh
