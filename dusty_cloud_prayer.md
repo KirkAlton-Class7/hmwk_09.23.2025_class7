@@ -41,6 +41,9 @@ echo "Yes, right there." >> just_like_that.md
 
 And lo, ye must first `git init`, then `git add` the fruits of thy labor. <br>
 Lest ye forget to `git commit`, thy efforts be in vain. <br>
+```sh
+git commit -m "first commit"
+```
 Only then may ye `git push` unto her. <br>
 <br>
 
