@@ -38,7 +38,7 @@ echo "Yes, right there." >> just_like_that.md
 ### Today’s work never ends.
 Diligence in failure builds builds consistency. 
 
-### Chiang Mai awaits; I will claim the mountain.
+### Chiang Mai awaits; I will conquer the mountain.
 
 <img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="50%">
 
