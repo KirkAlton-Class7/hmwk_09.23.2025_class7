@@ -63,3 +63,9 @@ git config --global core.excludesfile ~/.gitignore_global
 #### Pipe ignore rule to file
 echo .DS_Store >> ~/.gitignore_global
 
+# Ignore files (.DS_Store and other unneccessary user config files or clutter)
+.gitignore
+
+# Remove files you don't want to track that have already been added to the repo (user config giles on Linux broke some settings on Mac. This command prevents this from happening again)
+git rm --cached = “actually stop tracking the ones that already slipped in.”
+
