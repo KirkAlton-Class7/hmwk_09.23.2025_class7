@@ -19,7 +19,7 @@ Yet by faith and persistence,<br>
 
 <br>
 <img src="images/public_ssh_keys.png" alt="Public SSH Keys" width="90%">
-<br> <br>
+<br>
 
 4   <b>Thus spoke the shell:</b></span> <br>
 Verily, thy computer is like a <i>lady</i>; <br>
@@ -59,7 +59,6 @@ and the mountainside of Chiang Mai await.</i></b> <br>
 
 <img src="images/chiang_mai_home.jpeg" alt="Chiang Mai Home " width="60%">
 <br>
-<br>
 
 7 <b>Go forth, thou shalt <i>conquer</i> the mountain.</b> <br>
 
@@ -75,6 +74,3 @@ but guide me to the Blue Ocean of abundance. <br>
 From the dust we rise, and to the dust we shall return. <br>
 In <b>Chewbacca's</b> name we pray, <br>
 Amen.</i>
-
-
-
