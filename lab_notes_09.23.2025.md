@@ -1,35 +1,57 @@
 
 # Lab Notes
 ## <i>09.12.2025</i>
+
+## CLASS NOTES AND README IN PROGRESS
+### HTTPS gave me issues with tokens on Mac so I nuked my repo and got help from ChatGPT and GitHub docs to use SSH keys instead. Using GitHub official docs to help note the process for future reference.
+<br>
 <br>
 
-## 09.23.2025 CLASS NOTES AND README IN PROGRESS
-## HTTPS gave me issues with tokens on Mac so I nuked my repo and got help from ChatGPT and GitHub docs to use SSH keys instead.
-## Using GitHub official docs to help note the process for future reference.
-
-#### Check for existing SSH keys
+### Check for existing SSH keys
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
-$ ls -al ~/.ssh
+
+```sh
+ls -al ~/.ssh
+```
+
 
 #### Generate a new SSH key and add it to the SSH agent.
 #### Press enter to save to the default location.
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+```sh
 ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
 
 #### Enter a file to save the key
+
+```sh
 /Users/YOU/.ssh/id_github_key
+```
 
 #### When prompted for a password, press enter for no password or type a password for additional security.
 #### Press enter again for no password, or type password again to confirm.
 
 #### Start the ssh-agent
+```sh
 $ eval "$(ssh-agent -s)"
+```
+
+
 
 #### If using macOs, modify ~/.ssh/config file to automatically load keys into the ssh-agent and store passwords in your keychain
+
+```sh
 $ open ~/.ssh/config
+```
+
 
 #### If the file doesn't exist, create the file.
+```sh
 touch ~/.ssh/config
+```
+
 
 Open ~/.ssh/config file and modify the file to contain the following lines. If your SSH key has a different name or path, modify the filename or path to match your current setup
 
