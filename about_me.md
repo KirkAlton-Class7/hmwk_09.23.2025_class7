@@ -16,9 +16,6 @@
 
 #### 01. Intro (Liminal Spaces)
 
-
-<audio controls>
-  <source src="https://theowaf-class7-kirk.s3.us-east-1.amazonaws.com/hmwk_09-23-2025/01.+Intro+Liminal+Spaces+Mix4+L2.mp3" type="audio/mpeg">
-</audio>
+[01. Intro (Liminal Spaces)](mis_files/01_Intro_Liminal Spaces_Mix4_L2.mp3)
 <br>
 Sounds and feels like narcolepsy (listen w/headphones)
