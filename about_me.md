@@ -13,6 +13,6 @@
 ### Favorite Hobby: Cooking healthy food (and making music, but I rarely have time.)
 <img src="images/favorite_hobby.jpeg" alt="Sweet Potato Soup" width="80%">
 
-[▶️ 01. Intro (Liminal Spaces)](misc_files/01_Intro_Liminal_Spaces_Mix4_L2.mp3)
+[▶️ 01. Intro (Liminal Spaces)](https://theowaf-class7-kirk.s3.us-east-1.amazonaws.com/hmwk_09-23-2025/01.+Intro+Liminal+Spaces+Mix4+L2.mp3)
 <br>
 Sounds and feels like narcolepsy (listen w/headphones)
