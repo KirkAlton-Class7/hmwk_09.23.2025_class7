@@ -8,7 +8,7 @@ and architecture eternal. <br>
 
 2   <b>My <i>penance this day</i></b> <br>
 To wrestle with the gates of GitHub <br>
-'Til my code findeth rest in the cloud <br>
+'Til my repo findeth rest in the cloud <br>
 <br>
 
 3   <b>Yea though I walk through the valley of broken projects</b> <br>
@@ -65,7 +65,7 @@ diligence in failure begets consistency, and consistency begets the <i>fruit of 
 <img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="60%">
 <br>
 
-8   <b>And from this day thou shall pray:</b> <br>
+8 <b>And from this day thou shall pray:</b> <br>
 <i>Deliver me from the <b>burning pit of Keisha</b>, where hope is turned to ash. <br>
 Grant me the discipline to learn without ceasing, <br>
 for knowledge giveth, and ignorance taketh away. <br>
