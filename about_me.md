@@ -16,6 +16,6 @@
 
 #### 01. Intro (Liminal Spaces)
 
-[01. Intro (Liminal Spaces)](mis_files/01_Intro_Liminal Spaces_Mix4_L2.mp3)
+[01. Intro (Liminal Spaces)](misc_files/01_Intro_Liminal Spaces_Mix4_L2.mp3)
 <br>
 Sounds and feels like narcolepsy (listen w/headphones)
