@@ -94,6 +94,13 @@ echo .DS_Store >> ~/.gitignore_global
 # Remove files you don't want to track that have already been added to the repo (user config giles on Linux broke some settings on Mac. This command prevents this from happening again)
 git rm --cached = “actually stop tracking the ones that already slipped in.”
 
+
+
+ADDING BRANCHES
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository
+
+
+
 ### HEADING
 Ipsum lorem. Ipsum lorem. Ipsum lorem. Ipsum lorem. Ipsum lorem. Ipsum lorem.
 Ipsum lorem. Ipsum lorem. Ipsum lorem.Ipsum lorem. Ipsum lorem. Ipsum lorem.
