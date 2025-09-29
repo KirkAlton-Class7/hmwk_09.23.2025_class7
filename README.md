@@ -12,7 +12,7 @@ This weeks homework covers launching a GitHub repository and learning Linux fund
 
 ## Deliverables
 - ✅ [Week 1 Homework](https://github.com/KirkAlton-Class7/hmwk_09.09.2025_class7)
-- ✅[Bahga Box 2.1 (Week 1)](https://github.com/KirkAlton-Class7/bahga_box_2.1_class7)
+- ✅ [Bahga Box 2.1 (Week 1)](https://github.com/KirkAlton-Class7/bahga_box_2.1_class7)
 - ✅ [Bahga Box 2.2 (Week 1)](https://github.com/KirkAlton-Class7/bahga_box_2.2_class7)
 - ✅ [Be A Man Challenge 1.1](https://github.com/KirkAlton-Class7/bam_1.1_class7)
 - ✅ [Be A Man Challenge 1.2](https://github.com/KirkAlton-Class7/bam_1.2_class7)
