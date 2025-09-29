@@ -3,7 +3,7 @@
 ## Overview
 This weeks homework covers launching a GitHub repository and learning Linux fundamentals.
 
-> [!ABSTRACT]  
+> [!INFO]  
 > This weeks homework covers launching a GitHub repository and learning Linux fundamentals.
 >- **Date:** [09-23-2025]  
 >- **Author:** [Kirk Alton]  
