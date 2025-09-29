@@ -3,10 +3,10 @@
 ## Overview
 This weeks homework covers launching a GitHub repository and learning Linux fundamentals.
 
-**Date:** [09-23-2025] 
-**Author:** [Kirk Alton]
-**Class Folder:** N/A
-**Repo Link:** [GitHub Repository Link]
+- **Date:** 09-23-2025
+- **Author:** Kirk Alton
+- **Class Folder:** N/A
+- **Repo Link:** https://github.com/KirkAlton-Class7/hmwk_09.23.2025_class7
 
 ---
 
