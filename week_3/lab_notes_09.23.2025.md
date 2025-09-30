@@ -105,12 +105,12 @@ You can run `git pull` to pull files from the repo and sync changes.
 You an set up the repo to share the files and sync changes with multiple machines.
 
 <ins>References</ins> <br>
-[^1]: Checking for existing SSH keys: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys <br>
+[^1]: Checking for existing SSH keys: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
  
-[^2]: Generating a new SSH key and adding it to the ssh-agent: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent <br>
+[^2]: Generating a new SSH key and adding it to the ssh-agent: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-[^3]: AdAdding a new SSH key to your GitHub account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
+[^3]: Generating a new SSH key and adding it to the ssh-agent: [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-accoun](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)t
 
-[^4]: See Reference 3.
+[^4]: Adding a new SSH key to your GitHub account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 [^5]: Basic Git Workflow: https://github.com/KirkAlton-Class7/aaron_notes_class7/tree/main/092725#github-setup
