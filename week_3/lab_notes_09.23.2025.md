@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Add your SSH key to the ssh-agent [^2]
+### Add your SSH key to the ssh-agent [^3]
 1. Start the ssh agent:
 ``` sh
 eval "$(ssh-agent -s)"
@@ -48,7 +48,7 @@ Host github.com
 <br>
 <br>
 
-### Add the SSH Key to Your GitHub Account [^3]
+### Add the SSH Key to Your GitHub Account [^4]
 1. Open terminal and navigate to the
 2. Copy the contents of your public SSH key:
 ```sh
