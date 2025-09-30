@@ -109,6 +109,8 @@ You an set up the repo to share the files and sync changes with multiple machine
  
 [^2]: Generating a new SSH key and adding it to the ssh-agent: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent <br>
 
-[^3]: [^4]: AdAdding a new SSH key to your GitHub account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
+[^3]: AdAdding a new SSH key to your GitHub account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
+
+[^4]: See Reference 3.
 
 [^5]: Basic Git Workflow: https://github.com/KirkAlton-Class7/aaron_notes_class7/tree/main/092725#github-setup
