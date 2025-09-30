@@ -86,7 +86,7 @@ e.g., `git@github.com:KirkAlton-Class7/hmwk_09.23.2025_class7.git`
 
 
 
-### Create a local repo[^4]
+### Create a local repo[^5]
 1. Navigate to where you store your repos and creae a new directory.
 2. Open terminal and navigate to the repo directory
 3. Create a local repo using `git init`
@@ -109,6 +109,6 @@ You an set up the repo to share the files and sync changes with multiple machine
  
 [^2]: Generating a new SSH key and adding it to the ssh-agent: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent <br>
 
-[^3]: AdAdding a new SSH key to your GitHub account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
+[^3]: [^4]: AdAdding a new SSH key to your GitHub account: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
 
-[^4]: Basic Git Workflow: https://github.com/KirkAlton-Class7/aaron_notes_class7/tree/main/092725#github-setup
+[^5]: Basic Git Workflow: https://github.com/KirkAlton-Class7/aaron_notes_class7/tree/main/092725#github-setup
