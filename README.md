@@ -1,7 +1,7 @@
 
 # Homework Assignment: Week 3
 ## Overview
-This weeks homework covers launching a GitHub repository and learning Linux fundamentals.
+This week's homework covers launching a GitHub repository and learning Linux fundamentals.
 
 - **Date:** 09-23-2025
 - **Author:** [Kirk Alton](https://github.com/KirkAlton-Class7)
