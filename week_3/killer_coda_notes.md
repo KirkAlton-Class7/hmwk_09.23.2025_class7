@@ -1,7 +1,7 @@
 
 # Killer Coda Exercises
 
-<img src="/images/killer_coda/killer_coda_lessons.png" alt="Lesson Confirmation" width="50%">
+<img src="/images/killer_coda_lessons.png" alt="Lesson Confirmation" width="50%">
 
 ## <i>Linux: Lesson 1</i>
 
