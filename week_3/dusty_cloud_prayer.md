@@ -1,6 +1,6 @@
 
 # Chapter Three of the 7th Book of Dust
-## <i>On the Consummation of Github and [the Dusty Cloud Prayer](#the-dusty-cloud-prayer)</i>
+## <i>On the Consummation of Github and [the Dusty Cloud Prayer](####the-dusty-cloud-prayer)</i>
 1   Bless my thoughts with <i>clarity</i>, <br>
 in cloud above, code below, <br>
 and architecture eternal. <br>
