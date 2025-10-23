@@ -65,6 +65,7 @@ diligence in failure begets consistency, and consistency begets the <i>fruit of 
 <img src="images/chiang_mai_mountains_2.jpg" alt="Chiang Mai Mountains 2" width="60%">
 <br>
 #### The Dusty Cloud Prayer
+
 8 <b>And from this day thou shall pray:</b> <br>
 <i>Deliver me from the <b>burning pit of Keisha</b>, where hope is turned to ash. <br>
 Grant me the discipline to learn without ceasing, <br>
