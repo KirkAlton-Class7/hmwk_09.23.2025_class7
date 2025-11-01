@@ -51,10 +51,9 @@ Only then may ye `git push` unto her. <br>
 diligence in failure begets consistency, and consistency begets the <i>fruit of deployment</i>.
 <br>
 
-6   <b><i>Lo, $400K, faithful Ling Ling, and the mountainside of Chiang Mai await.</i></b>
+6   <b><i>Lo, $400K, and the mountainside of Chiang Mai await.</i></b>
 <br>
 
-<img src="images/indonesian_woman.jpeg" alt="Indonesian Woman" width="60%">
 <br>
 
 <img src="images/chiang_mai_home.jpeg" alt="Chiang Mai Home " width="60%">
